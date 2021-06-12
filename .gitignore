@@ -1,0 +1,11 @@
+.DS_Store
+/node_modules/
+/src/node_modules/@sapper/
+yarn-error.log
+/cypress/screenshots/
+/__sapper__/
+secrets.txt
+static/data
+static/que-comer-en-tijuana
+data
+aviation/
